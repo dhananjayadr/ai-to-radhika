@@ -1,4 +1,4 @@
-##ai-to-gobshit
+## ai-to-gobshit
 
 ## Why this exists?
 Why not? It is fun.
@@ -11,3 +11,6 @@ Why not? It is fun.
 - Enable `Developer mode`
 - Click on `Load Unpacked` on the top left side.
 - Select the path where you cloned/downloaded this project.
+
+### Demo
+<img src="demo.gif"/>
