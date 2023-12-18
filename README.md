@@ -8,4 +8,4 @@ Why not? It is fun.
 - Go to `chrome://extensions`
 - Click on `Load Unpacked` on the top left side.
 - Select the path where you cloned/downloaded this project.
-- An icon <img src="logo.png" width="20" height="20"/> should appear in your extensions list.
+- An icon <img src="logo.png" width="50" height="50"/> should appear in your extensions list.
