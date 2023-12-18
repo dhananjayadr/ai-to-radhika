@@ -13,4 +13,4 @@ Why not? It is fun.
 - Select the path where you cloned/downloaded this project.
 
 ### Demo
-<img src="demo.gif"/>
+<img src="demo-linkedin.gif"/>
