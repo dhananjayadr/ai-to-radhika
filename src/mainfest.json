@@ -1,0 +1,14 @@
+{
+	"manifest_version": 2,
+	"name": "ai to gobshit",
+	"version": "1.0",
+	"description": "Replaces the text 'ai' or 'artificial intelligence' with 'gobshit'.",
+	"content_scripts": 
+	[
+		{
+			"matches": ["*://*/*"],
+			"js": ["gobshit.js"],
+			"run_at": "document_end"
+		}
+	]
+}
