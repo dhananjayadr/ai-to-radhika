@@ -1,4 +1,4 @@
-## ai-to-gobshit
+## change a[A]i to Radhika
 
 ## Why this exists?
 Why not? It is fun.
