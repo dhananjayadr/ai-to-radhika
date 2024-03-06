@@ -1,13 +1,13 @@
 {
 	"manifest_version": 2,
-	"name": "ai to gobshit",
+	"name": "radhika",
 	"version": "1.0",
-	"description": "Replaces the text 'ai' or 'artificial intelligence' with 'gobshit'.",
+	"description": "Replaces the text 'ai' or 'artificial intelligence' with 'Radhika'.",
 	"content_scripts": 
 	[
 		{
 			"matches": ["*://*/*"],
-			"js": ["gobshit.js"],
+			"js": ["radhika.js"],
 			"run_at": "document_end"
 		}
 	]
