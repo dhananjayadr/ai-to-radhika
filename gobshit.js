@@ -29,8 +29,8 @@ function shouldSkipNode(node) {
 function handleText(textNode) {
     var v = textNode.nodeValue;
 
-    v = v.replace(/\bAI\b/gi, "gobshit");
-    v = v.replace(/\bartificial intelligence\b/gi, "gobshit");
+    v = v.replace(/\bAI\b/gi, "Radhika");
+    v = v.replace(/\bartificial intelligence\b/gi, "Radhika");
 
     textNode.nodeValue = v;
 }
